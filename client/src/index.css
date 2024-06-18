@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+main{
+    margin: 0 auto;
+    max-width: 70vw;
+    max-height: 100vh;
+}
+
